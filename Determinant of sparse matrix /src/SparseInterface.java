@@ -6,7 +6,7 @@ public interface SparseInterface {
     //STUDENTS:  DO NOT ALTER.  THIS WILL BE USED TO TEST YOUR CODE
 
     /*
-        Should clear the matrix of all entries (make all entries 0)
+        Should clear the matrix of all entries
      */
     public void clear();
 
